@@ -24,7 +24,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>Babuschka</name>
+		<name>Babushka</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -84,7 +84,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>Capitane</name>
+		<name>Capitan</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
