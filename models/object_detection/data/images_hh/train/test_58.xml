@@ -1,13 +1,13 @@
 <annotation>
-	<folder>lego_pic_2</folder>
-	<filename>test_58.jpg</filename>
-	<path>/Users/rdyo/code/DeepPiCar_karavdin/lego_pic_2/test_58.jpg</path>
+	<folder>train</folder>
+	<filename>test_58.jpeg</filename>
+	<path>/Users/rdyo/code/DeepPiCar_karavdin/models/object_detection/data/images_hh/train/test_58.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>2592</width>
-		<height>1944</height>
+		<width>899</width>
+		<height>506</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1441</xmin>
-			<ymin>979</ymin>
-			<xmax>1628</xmax>
-			<ymax>1221</ymax>
+			<xmin>478</xmin>
+			<ymin>193</ymin>
+			<xmax>669</xmax>
+			<ymax>430</ymax>
 		</bndbox>
 	</object>
 </annotation>

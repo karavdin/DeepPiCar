@@ -1,38 +1,38 @@
 <annotation>
-	<folder>lego_pic_2</folder>
-	<filename>test_113.jpg</filename>
-	<path>/Users/rdyo/code/DeepPiCar_karavdin/lego_pic_2/test_113.jpg</path>
+	<folder>train</folder>
+	<filename>test_113.jpeg</filename>
+	<path>/Users/rdyo/code/DeepPiCar_karavdin/models/object_detection/data/images_hh/train/test_113.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>2592</width>
-		<height>1944</height>
+		<width>973</width>
+		<height>547</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Capitan</name>
+		<name>capitane</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1052</xmin>
-			<ymin>950</ymin>
-			<xmax>1244</xmax>
-			<ymax>1221</ymax>
+			<xmin>34</xmin>
+			<ymin>114</ymin>
+			<xmax>214</xmax>
+			<ymax>398</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Cam</name>
+		<name>Rabo4aya</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1670</xmin>
-			<ymin>979</ymin>
-			<xmax>1921</xmax>
-			<ymax>1341</ymax>
+			<xmin>642</xmin>
+			<ymin>153</ymin>
+			<xmax>886</xmax>
+			<ymax>521</ymax>
 		</bndbox>
 	</object>
 </annotation>

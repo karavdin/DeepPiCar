@@ -1,26 +1,26 @@
 <annotation>
-	<folder>lego_pic_2</folder>
-	<filename>test_1Feb.jpg</filename>
-	<path>/Users/rdyo/code/DeepPiCar_karavdin/lego_pic_2/test_1Feb.jpg</path>
+	<folder>train</folder>
+	<filename>test_1Feb.jpeg</filename>
+	<path>/Users/rdyo/code/DeepPiCar_karavdin/models/object_detection/data/images_hh/train/test_1Feb.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>2592</width>
-		<height>1944</height>
+		<width>1225</width>
+		<height>689</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Babushka</name>
+		<name>babushka</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1244</xmin>
-			<ymin>952</ymin>
-			<xmax>1452</xmax>
-			<ymax>1219</ymax>
+			<xmin>407</xmin>
+			<ymin>245</ymin>
+			<xmax>597</xmax>
+			<ymax>494</ymax>
 		</bndbox>
 	</object>
 </annotation>
