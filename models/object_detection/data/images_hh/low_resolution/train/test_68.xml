@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>test_68.jpeg</filename>
+	<path>/Users/rdyo/code/DeepPiCar_karavdin/models/object_detection/data/images_hh/train/test_68.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>630</width>
+		<height>354</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sheila</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>264</xmin>
+			<ymin>110</ymin>
+			<xmax>399</xmax>
+			<ymax>339</ymax>
+		</bndbox>
+	</object>
+</annotation>

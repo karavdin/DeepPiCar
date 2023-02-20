@@ -1,13 +1,13 @@
 <annotation>
-	<folder>train</folder>
-	<filename>test_71.jpeg</filename>
-	<path>/Users/rdyo/code/DeepPiCar_karavdin/models/object_detection/data/images_hh/train/test_71.jpeg</path>
+	<folder>lego_pic_2</folder>
+	<filename>test_71.jpg</filename>
+	<path>/Users/rdyo/code/DeepPiCar_karavdin/lego_pic_2/test_71.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1014</width>
-		<height>570</height>
+		<width>2592</width>
+		<height>1944</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,22 +17,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>758</xmin>
-			<ymin>267</ymin>
-			<xmax>905</xmax>
-			<ymax>511</ymax>
+			<xmin>1644</xmin>
+			<ymin>1006</ymin>
+			<xmax>1786</xmax>
+			<ymax>1243</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>capitane</name>
+		<name>Capitan</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>69</xmin>
-			<ymin>192</ymin>
-			<xmax>236</xmax>
-			<ymax>460</ymax>
+			<xmin>955</xmin>
+			<ymin>937</ymin>
+			<xmax>1124</xmax>
+			<ymax>1206</ymax>
 		</bndbox>
 	</object>
 </annotation>

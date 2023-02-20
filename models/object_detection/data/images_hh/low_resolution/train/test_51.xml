@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>test_51.jpeg</filename>
+	<path>/Users/rdyo/code/DeepPiCar_karavdin/models/object_detection/data/images_hh/train/test_51.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1302</width>
+		<height>732</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>babushka</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>384</xmin>
+			<ymin>218</ymin>
+			<xmax>568</xmax>
+			<ymax>467</ymax>
+		</bndbox>
+	</object>
+</annotation>

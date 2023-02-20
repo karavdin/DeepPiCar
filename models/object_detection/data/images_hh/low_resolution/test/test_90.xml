@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>test_90.jpeg</filename>
+	<path>/Users/rdyo/code/DeepPiCar_karavdin/models/object_detection/data/images_hh/test/test_90.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>812</width>
+		<height>457</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rabo4aya</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>312</xmin>
+			<ymin>109</ymin>
+			<xmax>478</xmax>
+			<ymax>343</ymax>
+		</bndbox>
+	</object>
+</annotation>

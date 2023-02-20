@@ -1,26 +1,26 @@
 <annotation>
-	<folder>test</folder>
-	<filename>test_90.jpeg</filename>
-	<path>/Users/rdyo/code/DeepPiCar_karavdin/models/object_detection/data/images_hh/test/test_90.jpeg</path>
+	<folder>lego_pic_2</folder>
+	<filename>test_90.jpg</filename>
+	<path>/Users/rdyo/code/DeepPiCar_karavdin/lego_pic_2/test_90.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>812</width>
-		<height>457</height>
+		<width>2592</width>
+		<height>1944</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Rabo4aya</name>
+		<name>Cam</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>312</xmin>
-			<ymin>109</ymin>
-			<xmax>478</xmax>
-			<ymax>343</ymax>
+			<xmin>1441</xmin>
+			<ymin>997</ymin>
+			<xmax>1581</xmax>
+			<ymax>1208</ymax>
 		</bndbox>
 	</object>
 </annotation>
