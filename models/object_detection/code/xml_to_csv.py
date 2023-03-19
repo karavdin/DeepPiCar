@@ -106,8 +106,8 @@ def main():
             pbtxt_content = (
                 pbtxt_content
                 + "item {{\n    id: {0}\n    name: '{1}'\n}}\n\n".format(
-                    #i + 1, class_name
-                    i, class_name
+                    i + 1, class_name
+                    #i, class_name
                 )
             )
         pbtxt_content = pbtxt_content.strip()
