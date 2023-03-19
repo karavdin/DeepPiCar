@@ -1,0 +1,64 @@
+item {
+    id: 1
+    name: 'Babushka'
+}
+
+item {
+    id: 2
+    name: 'Bob'
+}
+
+item {
+    id: 3
+    name: 'Cam'
+}
+
+item {
+    id: 4
+    name: 'Capitan'
+}
+
+item {
+    id: 5
+    name: 'Nastya'
+}
+
+item {
+    id: 6
+    name: 'Phil'
+}
+
+item {
+    id: 7
+    name: 'Sheila'
+}
+
+item {
+    id: 8
+    name: 'Ukulele'
+}
+
+item {
+    id: 9
+    name: 'bike'
+}
+
+item {
+    id: 10
+    name: 'clock'
+}
+
+item {
+    id: 11
+    name: 'disko'
+}
+
+item {
+    id: 12
+    name: 'e-bike station'
+}
+
+item {
+    id: 13
+    name: 'ukulele'
+}
