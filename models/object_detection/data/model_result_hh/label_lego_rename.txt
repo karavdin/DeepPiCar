@@ -1,13 +1,13 @@
 0 Babushka
-1 Bob 
+1 Bob
 2 Cam
-3 Capitan 
+3 Capitan
 4 Nastya
 5 Phil
-6 Ukulele
-7 e-bike station
+6 Sheila
+7 Ukulele
 8 e-bike
 9 clock
 10 disko
-11 Sheila 
+11 e-bike station
 12 ukulele
