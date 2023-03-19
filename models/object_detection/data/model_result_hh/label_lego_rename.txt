@@ -1,7 +1,7 @@
 0 Babushka
-1 Bob
-2 Cam
-3 Capitan
+1 Bob 
+2 Cam 
+3 Capitan 
 4 Nastya
 5 Phil
 6 Sheila
